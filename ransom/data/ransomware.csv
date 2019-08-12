@@ -1,0 +1,173 @@
+Date,City,State,Demand,Paid,Year,Ransom
+"Nov, 2013",Swansea PD,MA,$750,Y,2013,750
+"Dec, 2013",Greenland,NH,$300,N,2013,300
+"Jun, 2014",Durham PD,NH,Unknown,N,2014,Unknown
+"Jun, 2014",Collinsville PD,AL,Unknown,N,2014,Unknown
+"Nov, 2014",Dickson Sheriff Dept,TN,$572,Y,2014,572
+"Feb, 2015",Midlothian PD,IL,$500,Y,2015,500
+"Apr, 2015",Tewksbury,MA,$500,Y,2015,500
+"Apr, 2015",Lincoln County Police,ME,$300,Y,2015,300
+"Jan, 2016",Medfield,MA,$300,Y,2016,300
+"Feb, 2016",Park County,WY,Unknown,N,2016,Unknown
+"Feb, 2016",Arizona Superior Ct,AZ,Unknown,N,2016,Unknown
+"Feb, 2016",Los Angeles County Health Dept,CA,Unknown,N,2016,Unknown
+"Feb, 2016",Oxford School District,MS,Unknown,N,2016,Unknown
+"Feb, 2016",Durham,NC,Unknown,N,2016,Unknown
+"Feb, 2016",Horry County School District,SC,"$8,000",N,2016,8000
+"Feb, 2016",Melrose PD,MA,$489,Y,2016,489
+"Mar, 2016",Kankakee County,IL,Unknown,N,2016,Unknown
+"Mar, 2016",Manlius,NY,$400,N,2016,400
+"Mar, 2016",Cloquet School District,MN,"$6,000",N,2016,6000
+"Mar, 2016",Clark County Water Reclamation,NV,Unknown,U,2016,Unknown
+"Apr, 2016",Plainfield,NJ,$650,N,2016,650
+"Apr, 2016",Lansing Board of Water and Light,MI,"$25,000",Y,2016,25000
+"May, 2016",Pinal County Attorney's Office,AZ,Unknown,N,2016,Unknown
+"May, 2016",Grant County Education Service District,OR,Unknown,N,2016,Unknown
+"May, 2016",Rhinebeck School District,NY,$500,N,2016,500
+"Jun, 2016",Henry County 911,TN,Unknown,N,2016,Unknown
+"Jun, 2016",Palm Beach 911 Services,FL,Unknown,N,2016,Unknown
+"Jun, 2016",Janesville,WI,Unknown,U,2016,Unknown
+"Jun, 2016",Columbiana County Juvenile Court,OH,"$2,883",Y,2016,2883
+"Jul, 2016",Woodbury County,IA,Unknown,N,2016,Unknown
+"Jul, 2016",Wadena,MN,Unknown,N,2016,Unknown
+"Aug, 2016",Sarasota,FL,"$33,000,000",N,2016,33000000
+"Aug, 2016",State Police,RI,Unknown,N,2016,Unknown
+"Aug, 2016",Barnstable PD,MA,Unknown,N,2016,Unknown
+"Sep, 2016",Yuba City,CA,Unknown,N,2016,Unknown
+"Sep, 2016",Palm Beach 911 Services,FL,Unkonwn,N,2016,Unknown
+"Sep, 2016","Honolulu, FD",HI,Unknown,N,2016,Unknown
+"Sep, 2016",Crow Wing County,MN,Unknown,N,2016,Unknown
+"Sep, 2016",Dep of Mineral Resources,ND,$350,N,2016,350
+"Sep, 2016",Springfield,TN,"$1,000",N,2016,1000
+"Sep, 2016",Palm Hill PD,TX,$250,U,2016,250
+"Oct, 2016",Henry County,OH,Unknown,N,2016,Unknown
+"Oct, 2016",Mount Holly Springs PD,PA,$500,N,2016,500
+"Nov, 2016",San Francisco Muni,CA,"$73,000",N,2016,73000
+"Nov, 2016",Howard County,IN,Unknown,N,2016,Unknown
+"Nov, 2016",St Mary's County,MD,Unknown,N,2016,Unknown
+"Nov, 2016",Bigfork School District,MT,Unknown,N,2016,Unknown
+"Nov, 2016",Madison County (and PD),IN,"$21,000",Y,2016,21000
+"Dec, 2016",Alpena School System,MI,Unknown,N,2016,Unknown
+"Dec, 2016",Mt Pleasant PD,SC,Unknown,N,2016,Unknown
+"Dec, 2016",Cockrell Hill Police Dept,TX,"$4,000",N,2016,4000
+"Dec, 2016",Allegheny County State Prosecutor,PA,"$1,400",Y,2016,1400
+"Dec, 2016",Carroll County Sheriff's Dept,AR,"$2,400",Y,2016,2400
+"Dec, 2016",Los Angeles Valley College,CA,"$28,000",Y,2016,28000
+"Dec, 2016",Bighton PD,MA,"$4,600",Y,2016,4600
+"Jan, 2017",Washington,DC,Unknown,N,2017,Unknown
+"Jan, 2017",Marion County,FL,Unknown,N,2017,Unknown
+"Jan, 2017",St Louis Public Library,MO,"$35,000",N,2017,35000
+"Jan, 2017",Kanawha County Board of Education,WV,Unknown,N,2017,Unknown
+"Jan, 2017",Warren County Sheriff's Dept,MO,Unknown,U,2017,Unknown
+"Feb, 2017",Bingham County (and Dispatch,ID,"$30,000",N,2017,30000
+"Feb, 2017",Roxana Police Department,IL,Unknown,N,2017,Unknown
+"Feb, 2017",Office of Management and Enterprise,OK,Unknown,N,2017,Unknown
+"Feb, 2017",Licking County,OH,Unknown,Y,2017,Unknown
+"Mar, 2017",PA State Senate Democrats,PA,Unknown,N,2017,Unknown
+"Mar, 2017",Wood River Police Department,IL,Unknown,N,2017,Unknown
+"Apr, 2017",Troup County (and PD),GA,"$39,600",N,2017,39600
+"Apr, 2017",Perkin High School,IL,"$37,000",N,2017,37000
+"Apr, 2017",Forsyth Public Schools,MT,Unknown,N,2017,Unknown
+"Apr, 2017",Newark,NJ,"$30,000",Y,2017,30000
+"May, 2017",Cook County,IL,Unknown,N,2017,Unknown
+"May, 2017",Murfreesboro PD & FD,TN,Unknown,N,2017,Unknown
+"Jun, 2017",Rensselaer County Library,NY,Unknown,N,2017,Unknown
+"Jul, 2017",Marion County Fairgrounds,IN,"$1,000",N,2017,1000
+"Jul, 2017",Cape May County,NJ,Unknown,U,2017,Unknown
+"Jul, 2017",Brownsburg Public Library,IN,"$1,000",Y,2017,1000
+"Aug, 2017",Iberia Parish Sheriff's Office,LA,Unknown,N,2017,Unknown
+"Aug, 2017",Washington,MO,Unknown,N,2017,Unknown
+"Aug, 2017",Becker County,MN,Unknown,U,2017,Unknown
+"Aug, 2017",Dorchester School District,SC,"$2,900",Y,2017,2900
+"Sep, 2017",St Johnsbury,VT,$250,N,2017,250
+"Sep, 2017",Butler County (and PD),KS,Unknown,U,2017,Unknown
+"Sep, 2017",Indianhead Library System,WI,Unknown,U,2017,Unknown
+"Oct, 2017",Englewood,CO,Unknown,N,2017,Unknown
+"Oct, 2017",Topsham,ME,Unknown,N,2017,Unknown
+"Oct, 2017",Texas Dept of Agriculture,TX,Unknown,U,2017,Unknown
+"Oct, 2017",Yarrow Point,WA,"$9,170",Y,2017,9170
+"Nov, 2017",Sacramento Transit System,CA,"$8,000",N,2017,8000
+"Nov, 2017",Spring Hill (and 911 Services),TN,"$250,000",N,2017,250000
+"Dec, 2017",Mecklenburg County (and PD),NC,"$23,000",N,2017,23000
+"Dec, 2017",Dept of Agriculture,GA,Unknown,N,2017,Unknown
+"Dec, 2017",Jerome School District,ID,"$65,000",N,2017,65000
+"Dec, 2017",Mad River Fire & EMS,OH,"$11,400",N,2017,11400
+"Dec, 2017",Nashotah,WI,"$2,000",Y,2017,2000
+"Jan, 2018",Farmington,NM,"$35,000",N,2018,35000
+"Jan, 2018",Spartanburg County Library,SC,"$35,000",N,2018,35000
+"Jan, 2018",Chester County School District,SC,Unknown,N,2018,Unknown
+"Jan, 2018",Belle Fourche,SD,Unknown,N,2018,Unknown
+"Jan, 2018",Maury County Public Schools,TN,Unknown,N,2018,Unknown
+"Feb, 2018",Colorado Dept of Transportation,CO,Unknown,N,2018,Unknown
+"Feb, 2018",Davidson County,NC,"$23,000",N,2018,23000
+"Feb, 2018",Johnson County Sheriff's Dept,AR,None,N,2018,None
+"Feb, 2018",Hinesville,GA,Unknown,N,2018,Unknown
+"Feb, 2018",Connecticut State Agencies,CT,"$48,000",N,2018,48000
+"Feb, 2018",Savannah (and Savannah PD),GA,Unknown,Y,2018,Unknown
+"Mar, 2018",Plymouth & Plymouth PD,CT,Unknown,N,2018,Unknown
+"Mar, 2018",Colorado Dept of Transportation,CO,Unknown,N,2018,Unknown
+"Mar, 2018",Atlanta (and Atlanta PD),GA,"$55,000",N,2018,55000
+"Mar, 2018",Portland,CT,"$2,000",N,2018,2000
+"Mar, 2018",Portland (II),CT,"$2,000",N,2018,2000
+"Mar, 2018",Connecticut Judicial Branch,CT,Unknown,N,2018,Unknown
+"Mar, 2018",Baltimore 911 System,MD,Unknown,N,2018,Unknown
+"Mar, 2018",Mississippi Valley State University,MS,Unknown,U,2018,Unknown
+"Mar, 2018","Leeds (City, FD and PD)",AL,"$8,000",Y,2018,8000
+"Apr, 2018",Dawson County,GA,Unknown,N,2018,Unknown
+"Apr, 2018",Ashland Community Library,ME,$400,N,2018,400
+"Apr, 2018",Rockport,ME,"$1,000",N,2018,1000
+"Apr, 2018",Riverside FD & PD,OH,Unknown,N,2018,Unknown
+"Apr, 2018",Richmond,VA,Unknown,N,2018,Unknown
+"Apr, 2018",Leominster School District,MA,"$10,000",Y,2018,10000
+"May, 2018",Pasquotank,NC,"$2,500",N,2018,2500
+"May, 2018",Winder,GA,"$320,000",N,2018,320000
+"May, 2018",Riverside FD & PD,OH,Unknown,N,2018,Unknown
+"May, 2018",Roseburg Public Schools,OR,Unknown,N,2018,Unknown
+"Jun, 2018",Jefferson Village,OH,"$4,900",N,2018,4900
+"Jun, 2018",State Agencies,RI,Unknown,N,2018,Unknown
+"Jun, 2018",Middletown School District,CT,Unknown,U,2018,Unknown
+"Jul, 2018",Mat-Su,AK,"$400,000",N,2018,400000
+"Jul, 2018",Derby Police Dept,CT,Unknown,N,2018,Unknown
+"Jul, 2018",Valdez,AK,"$26,000",Y,2018,26000
+"Jul, 2018",Westmoreland County Housing Authority,PA,"$6,500",Y,2018,6500
+"Aug, 2018",Coweta County and Public Safety,GA,Unknown,N,2018,Unknown
+"Aug, 2018",Cloquet School District,MN,Unknown,N,2018,Unknown
+"Sep, 2018",Monroe County School District,FL,Unknown,N,2018,Unknown
+"Sep, 2018",Port of San Diego (Harbor and PD),CA,Unknown,N,2018,Unknown
+"Sep, 2018",Marblehead,MA,Unknown,N,2018,Unknown
+"Sep, 2018",Beatrice (and PD & FD),NE,Unknown,U,2018,Unknown
+"Oct, 2018",Onslow County Water and Sewer,NC,Unknown,N,2018,Unknown
+"Oct, 2018",Muscatine (City & PD),IA,Unknown,N,2018,Unknown
+"Oct, 2018",Madison County,ID,Unknown,N,2018,Unknown
+"Oct, 2018",Moultrie County,IL,Unknown,U,2018,Unknown
+"Oct, 2018",Crawford County,IL,Unknown,U,2018,Unknown
+"Oct, 2018",Indiana National Guard,IN,Unknown,U,2018,Unknown
+"Oct, 2018",West Haven,CT,"$2,000",Y,2018,2000
+"Nov, 2018",Rockaway Township PD,NJ,Unknown,U,2018,Unknown
+"Nov, 2018",Johannesburg-Lewiston School Distric,MI,Unknown,Y,2018,Unknown
+"Dec, 2018",North Bend (and PD),OR,"$50,000",N,2018,50000
+"Dec, 2018",Jupiter,FL,Unknown,N,2018,Unknown
+"Jan, 2019",Lamar County Sheriff's Dept,TX,Unknown,N,2019,Unknown
+"Jan, 2019",Salisbury PD,MD,Unknown,N,2019,Unknown
+"Jan, 2019",Akron,OH,Unknown,N,2019,Unknown
+"Jan, 2019",Sammamish,WA,Unknown,N,2019,Unknown
+"Jan, 2019",Bridgeport School Systems,CT,Unknown,U,2019,Unknown
+"Jan, 2019",Del Rio,TX,Unknown,U,2019,Unknown
+"Feb, 2019",Colchester,CT,Unknown,N,2019,Unknown
+"Feb, 2019",Mt Zion School District,IL,Unknown,N,2019,Unknown
+"Feb, 2019",Taos Municipal School District,NM,"$5,000",N,2019,5000
+"Mar, 2019",Committee for Public Counsel,MA,Unknown,N,2019,Unknown
+"Mar, 2019",Park Rapids School System,MN,Unknown,N,2019,Unknown
+"Mar, 2019",Orange County (and PD),NC,Unknown,N,2019,Unknown
+"Mar, 2019",Fisher County PD,TX,Unknown,N,2019,Unknown
+"Mar, 2019",Albany,NY,Unknown,U,2019,Unknown
+"Mar, 2019",Jackson County,GA,"$400,000",Y,2019,400000
+"Apr, 2019",Genessee County,MI,Unknown,N,2019,Unknown
+"Apr, 2019",Imperial County,CA,Unknown,N,2019,Unknown
+"Apr, 2019",Stuart,FL,Unknown,N,2019,Unknown
+"Apr, 2019",Greenville,NC,Unknown,U,2019,Unknown
+"Apr, 2019",Augusta,ME,Unknown,U,2019,Unknown
+"Apr, 2019",Garfield County,UT,Unknown,Y,2019,Unknown
+"June, 2019",lake city fl,FL,460000,Y,2019,460000
+"June, 2019",riviera beach fl,FL,600000,Y,2019,600000
+"May, 2019",baltimore,MD,75000,N,2019,75000
